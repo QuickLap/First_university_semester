@@ -6,3 +6,4 @@ Bauman Moscow State Technical University IU-7 first semester tasks & solutions.
 * Quadratic equation solver
 * Belonging to a triangle
 * Work with list by using menu
+* Сalculation of integrals (right rectangles and trapezoids methods)
